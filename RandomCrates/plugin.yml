@@ -1,0 +1,7 @@
+name: RandomCrates
+version: 1.0
+description: A test plugin
+
+commands:
+  randomcrates:
+    aliases: [rc, rcrates]
